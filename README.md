@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# Tela Contador
 
-Rápida descrição do objetivo de fazer esse projeto
+Tela contador com passo a passo.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Contador**
+| :label: Tecnologias | Java, Swing (tecnologias utilizadas)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://https://raw.githubusercontent.com/jonathanimolesi/JavaGuanabara-Contador/main/telaContador1.png#vitrinedev)
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://https://raw.githubusercontent.com/jonathanimolesi/JavaGuanabara-Contador/main/telaContador2.png#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Contador com slider de início de 0 a 5, fim de 6 a 20 e passo de 1 a 4, apertando o botão contar é mostrado ao lado na JList os valores de resultado.
