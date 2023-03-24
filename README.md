@@ -10,8 +10,7 @@ Tela contador com passo a passo.
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://https://raw.githubusercontent.com/jonathanimolesi/JavaGuanabara-Contador/main/telaContador1.png#vitrinedev)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://https://raw.githubusercontent.com/jonathanimolesi/JavaGuanabara-Contador/main/telaContador2.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
