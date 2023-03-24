@@ -8,8 +8,10 @@ Tela contador com passo a passo.
 | :label: Tecnologias | Java, Swing (tecnologias utilizadas)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://https://raw.githubusercontent.com/jonathanimolesi/JavaGuanabara-Contador/main/telaContador1.png#vitrinedev)
+![](https://raw.githubusercontent.com/jonathanimolesi/JavaGuanabara-Contador/main/telaContador1.png#vitrinedev)
 
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/jonathanimolesi/JavaGuanabara-Contador/main/telaContador2.png#vitrinedev)
 
 
 ## Detalhes do projeto
